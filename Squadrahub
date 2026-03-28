@@ -1,0 +1,11 @@
+# 1. Clone o repositório vazio
+git clone https://github.com/gdmesquadriasia2026-cmyk/squadrahub.git
+cd squadrahub
+
+# 2. Copie todos os arquivos do SquadraHub para esta pasta
+# (Copie manualmente ou use: cp -r ../fabrica-esquadrias-plano/* .)
+
+# 3. Faça commit e push
+git add .
+git commit -m "Initial commit: SquadraHub v6 - Plano Estratégico"
+git push origin main
